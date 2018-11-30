@@ -15,17 +15,17 @@ url_prefix = /bn-BD/
 locale = bn-BD
 
 [alternatives.ca]
-name = Catala
+name = Catalá (ca)
 url_prefix = /ca/
 locale = ca
 
 [alternatives.de]
-name = Deutsch
+name = Deutsch (de)
 url_prefix = /de/
 locale = de
 
 [alternatives.en]
-name = English
+name = English (en)
 primary = yes
 url_prefix = /
 locale = en_US
