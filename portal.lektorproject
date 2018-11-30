@@ -12,17 +12,7 @@ locale = bn-BD
 [alternatives.bn-BD]
 name = বাংলা ভাষা  (bn)
 url_prefix = /bn-BD/
-locale = bn_BD
-
-[alternatives.bn]
-name = Bengali
-url_prefix = /bn/
-locale = bn_BD
-
-[alternatives.bn-BD]
-name = Bengali
-url_prefix = /bn-BD/
-locale = bn_BD
+locale = bn-BD
 
 [alternatives.ca]
 name = Catala
@@ -43,13 +33,7 @@ locale = en_US
 [alternatives.en-US]
 name = English (en)
 url_prefix = /en-US/
-locale = en_US
-
-[alternatives.en-US]
-name = English
-primary = yes
-url_prefix = /en-US/
-locale = en_US
+locale = en-US
 
 [alternatives.es]
 name = Español
