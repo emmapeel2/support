@@ -4,15 +4,15 @@ url = https://support.torproject.org/
 url_style = relative
 locale = en-US
 
+[alternatives.ar]
+name = عربية (ar)
+url_prefix = /ar/
+locale = ar
+
 [alternatives.bn]
 name = বাংলা ভাষা  (bn)
 url_prefix = /bn/
-locale = bn-BD
-
-[alternatives.bn-BD]
-name = বাংলা ভাষা  (bn)
-url_prefix = /bn-BD/
-locale = bn-BD
+locale = bn
 
 [alternatives.ca]
 name = Catalá (ca)
@@ -24,21 +24,31 @@ name = Deutsch (de)
 url_prefix = /de/
 locale = de
 
+[alternatives.el]
+name = Ελληνικά (el)
+url_prefix = /el/
+locale = el
+
 [alternatives.en]
 name = English (en)
 primary = yes
 url_prefix = /
-locale = en_US
-
-[alternatives.en-US]
-name = English (en)
-url_prefix = /en-US/
 locale = en-US
 
 [alternatives.es]
 name = Español
 url_prefix = /es/
 locale = es
+
+[alternatives.es-AR]
+name = Español
+url_prefix = /es-AR/
+locale = es-AR
+
+[alternatives.fa]
+name =  فارسی (fa)
+url_prefix = /fa/
+locale = fa
 
 [alternatives.fr]
 name = Français
@@ -50,27 +60,47 @@ name = Gaeilge (ga)
 url_prefix = /ga/
 locale = ga
 
+[alternatives.he]
+name =  עברית (he)
+url_prefix = /he/
+locale = he
+
 [alternatives.id]
-name = Indonesia
+name = Indonesia (id)
 url_prefix = /id/
 locale = id
 
 [alternatives.it]
-name = Indonesia
+name = Italiano (it)
 url_prefix = /it/
 locale = it
 
-[alternatives.he]
-name = Ivrit
-url_prefix = /he/
-locale = he
+[alternatives.ka]
+name = Georgian (ka)
+url_prefix = /ka/
+locale = ka
+
+[alternatives.ko]
+name = 한국어 (ko)
+url_prefix = /ko/
+locale = ko
 
 [alternatives.pt-BR]
-name = Português (Brasil)
+name = Português Br. (pt-BR)
 url_prefix = /pt-BR/
 locale = pt-BR
 
 [alternatives.tr]
-name = Turkish
+name = Türkçe (tr)
 url_prefix = /tr/
 locale = tr
+
+[alternatives.ru]
+name =  Русский (ru)
+url_prefix = /ru/
+locale = ru
+
+[alternatives.zh-CN]
+name = 中文简(zh-CN)
+url_prefix = /zh-CN/
+locale = zh-CN
