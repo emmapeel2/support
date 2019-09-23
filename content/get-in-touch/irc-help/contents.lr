@@ -10,8 +10,8 @@ Here is how you can get onto IRC and start to chat with Tor contributors in real
 
   **NICKNAME:** Anything you want, but choose the same nickname (nick) every time you use IRC to talk to people on Tor. If your nick is already being used, you will get a message from the system and you should choose another nick.
 
-  **CHANNEL:** #tor
-
+  **CHANNEL:** #tor or others listed at [our contact page](https://www.torproject.org/contact/).
+  
 3. Click Enter
 
 Congratulations! You're on IRC. 
@@ -24,4 +24,6 @@ People may be able to answer right away, or there may be a bit of a delay (some 
 
 If you want to chat with someone specific, start your comment with their nick and they will typically receive a notification that someone is trying to contact them. 
 
-You should also consider to use an IRC client.
+You should also consider to using an IRC client.
+
+If you cannot enter a channel, please read [this documentation](/get-in-touch/why-i-cant-join-tor-channels/)
